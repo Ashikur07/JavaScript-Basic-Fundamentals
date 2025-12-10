@@ -1,0 +1,1 @@
+console.log("Hoisting in JavaScript 🔥(variables & functions)")
