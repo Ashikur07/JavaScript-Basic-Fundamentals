@@ -4,4 +4,9 @@ console.log(a); // if we declare a variable use let we cannto access before a is
 
 let a = 10; 
 
-let a = 1000;
+// let a = 1000; // this is SyntaxError
+
+var b =10;
+var b =20; // use var we can redeclare
+
+
