@@ -7,3 +7,6 @@
     console.log(b);
     console.log(c);
 }
+
+console.log(a);  // access variable a
+console.log(b);   // cannot access because block scope
