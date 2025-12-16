@@ -6,4 +6,6 @@ function x(){
     }
     y();
 }
-x();
+
+var z = x();
+console.log(z());
