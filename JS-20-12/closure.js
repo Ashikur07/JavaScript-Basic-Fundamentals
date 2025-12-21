@@ -5,3 +5,4 @@ function a(){
         console.log(x);
     }
 }
+a()();
