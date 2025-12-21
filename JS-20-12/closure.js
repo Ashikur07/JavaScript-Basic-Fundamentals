@@ -6,3 +6,5 @@ function a(){
     }
 }
 a()();
+
+var y = a();
