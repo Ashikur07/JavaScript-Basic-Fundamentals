@@ -5,7 +5,7 @@ function a(){
         console.log(x);
     }
 }
-a()();
+// a()();
 
 var y = a();
 y();
