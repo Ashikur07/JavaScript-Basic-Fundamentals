@@ -1,5 +1,6 @@
 // Hoisting in JavaScript 🔥(variables & functions)
 
+
 getName();
 console.log(x);
 
