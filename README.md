@@ -21,7 +21,7 @@ focusing on **how JavaScript works internally**, not just syntax.
 
 This repository follows the complete **Namaste JavaScript** YouTube playlist in order.
 
-### 🔥 Core JavaScript Internals 
+### 🔥 Core JavaScript Internals
 - How JavaScript works behind the scenes  
 - Execution context & call stack  
 - How JavaScript code is executed  
