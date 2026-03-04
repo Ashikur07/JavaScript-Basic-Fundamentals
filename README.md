@@ -6,7 +6,7 @@ This repository documents my **JavaScript learning journey** following the legen
 The goal of this repository is to build a **rock-solid understanding of JavaScript fundamentals**,  
 focusing on **how JavaScript works internally**, not just syntax.
 
----
+--- 
 
 ## 🎯 Why This Repository?
 
