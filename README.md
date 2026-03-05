@@ -8,7 +8,7 @@ focusing on **how JavaScript works internally**, not just syntax.
 
 --- 
 
-## 🎯 Why This Repository?
+## 🎯 Why This Repository? 
 
 - To understand JavaScript from **first principles**
 - To master **execution context, scope, closures, and async JS**
